@@ -1,3 +1,5 @@
+title: Tian Zhao's personal website
+description: A collection of my life.
 lsi: false
 safe: true
 source: t113zhao.github.io
@@ -11,5 +13,3 @@ kramdown:
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [The title of your site]
-description: [A short description of your site's purpose]

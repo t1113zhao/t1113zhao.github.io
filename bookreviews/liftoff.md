@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 permalink: bookreviews/liftoff
-date:
+date: 2024-12-23
 ---
 
 A book review of "Liftoff" by Eric Berger
