@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Home"
 permalink: bookreviews/liftoff
 date: 2024-12-23
