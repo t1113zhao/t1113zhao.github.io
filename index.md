@@ -1,6 +1,3 @@
-﻿---
-layout: default
----
 
 # Table of Contents
 [About me](#about-me)
