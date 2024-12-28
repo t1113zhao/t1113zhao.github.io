@@ -14,7 +14,7 @@ I own a black female Formosan Mountain Dog.
 I make a mean prime rib, but most of my home cooking is nutritious slop much to my girlfriends chagrin.
 
 ## For people who have clicked this link via my resume
-I am an Android Developer. I am a graduate of the University of Waterloo <sup><sup><sup><sup><sup><sup><sup><sup>please validate me</sup></sup></sup></sup></sup></sup></sup></sup> .
+I am an Android Developer. 
 
 ## Resume
 <!-- Current as of Jan 1 2025 -->
