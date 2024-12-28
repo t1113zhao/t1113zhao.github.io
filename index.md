@@ -1,8 +1,11 @@
 
 # Table of Contents
 [About me](#about-me)
+
 [Travel](#travel)
+
 [Book Reviews](#book-reviews)
+
 [Misc.](#miscellaneous)
 
 # About me
