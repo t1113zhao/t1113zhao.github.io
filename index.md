@@ -26,5 +26,5 @@ I am an Android Developer. I am a graduate of the University of Waterloo <sup><s
 Dont click theres nothing here[Liftoff by Eric Berger](bookreviews/liftoff.md) -->
 
 # Miscellaneous
-[Olive Oil Buyers Guide](misc/)
+[Olive Oil Buyers Guide](misc/oliveoilbuyersguide.md)
 
